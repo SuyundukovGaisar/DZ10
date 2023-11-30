@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\AccountLibrary\AccountLibrary\bin\Debug\AccountLibrary.dll
+C:\Users\user\source\repos\AccountLibrary\AccountLibrary\bin\Debug\AccountLibrary.pdb
+C:\Users\user\source\repos\AccountLibrary\AccountLibrary\obj\Debug\AccountLibrary.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AccountLibrary\AccountLibrary\obj\Debug\AccountLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AccountLibrary\AccountLibrary\obj\Debug\AccountLibrary.dll
+C:\Users\user\source\repos\AccountLibrary\AccountLibrary\obj\Debug\AccountLibrary.pdb
