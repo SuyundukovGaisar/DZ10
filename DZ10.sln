@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ10", "DZ10\DZ10.csproj", "{F916EF20-97C4-4F5B-B2B3-C6BB1A210DE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TumakovLab11", "TumakovLab11\TumakovLab11.csproj", "{6D2CE45B-C26E-4BCB-97FE-409A4139754C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TumakovLab12", "TumakovLab12\TumakovLab12.csproj", "{7BE07FC6-5B0A-4DF4-8665-B10CA4BEDFBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F916EF20-97C4-4F5B-B2B3-C6BB1A210DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F916EF20-97C4-4F5B-B2B3-C6BB1A210DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F916EF20-97C4-4F5B-B2B3-C6BB1A210DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F916EF20-97C4-4F5B-B2B3-C6BB1A210DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D2CE45B-C26E-4BCB-97FE-409A4139754C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2CE45B-C26E-4BCB-97FE-409A4139754C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2CE45B-C26E-4BCB-97FE-409A4139754C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2CE45B-C26E-4BCB-97FE-409A4139754C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BE07FC6-5B0A-4DF4-8665-B10CA4BEDFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE07FC6-5B0A-4DF4-8665-B10CA4BEDFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE07FC6-5B0A-4DF4-8665-B10CA4BEDFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE07FC6-5B0A-4DF4-8665-B10CA4BEDFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2FAEEEA-EDCD-48D3-8AD9-415DF63463EF}
+	EndGlobalSection
+EndGlobal
